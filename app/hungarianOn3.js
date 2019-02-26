@@ -1,3 +1,5 @@
+'use strict';
+
 var BitSet = require('fast-bitset');
 
 /**
